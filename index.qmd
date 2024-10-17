@@ -13,7 +13,7 @@ source(file.path("R","functions.R"))
 create_footer()
 ```
 
-```{r dsl, echo=FALSE, fig.cap="The Data Science Lifecycle", out.width = '80%', fig.align='center'}
+```{r dsl, echo=FALSE, fig.cap="The Data Science Lifecycle", out.width = '90%', fig.align='center'}
 knitr::include_graphics("figures/aq-data-science-lifecycle.png")
 ```
 
