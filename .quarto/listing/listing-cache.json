@@ -1,0 +1,12 @@
+{
+  "listingMap": {
+    "project-example.qmd": [
+      "project-example/*.qmd"
+    ],
+    "project-examples.qmd": [
+      "project-examples/*.qmd",
+      "project-examples/*.html",
+      "project-examples"
+    ]
+  }
+}

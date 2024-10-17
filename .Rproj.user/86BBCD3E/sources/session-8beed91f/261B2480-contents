@@ -1,0 +1,20 @@
+---
+title: "Example Student Projects"
+listing:
+  contents: "project-examples"
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  filter-ui: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>

@@ -1,0 +1,15 @@
+{
+  "hash": "efcc4e8c45ad83b7940caf100bd1fcaa",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: | \n  | Course Project Guidelines\nbibliography: references.bib\ncsl: apa.csl\n---\n\n\n\n::: {.cell}\n\n:::\n\n\n<br>\n\n## Description\n\nThe data science project is one of the main assignments required for this course. There are four main objectives for this project, which is in line with the learning objectives of MATH 391:\n\n* To learn skills in data acumen, wrangling, and visualization.\n* To learn effective and concise communication of data stories.\n* To learn and show teamwork, collegiality, and the basics of a peer review process.\n* To learn new and existing statistical methods and to hone independent learning.\n\nAt the end of the course, your project will be evaluated according to the above objectives and the course's learning outcomes.\n\n> Project data sets for you to choose will be provided. If you choose to have your own data adventure, you may do so but the chosen data set needs to be reviewed and approved by the instructor.\n\n## Expectations\n\nWriting a scientific report/paper is essential for any student. Your project is a way for you to get exposure to the rigors of writing a report that involves data exploration and statistical analysis.\n\nThe most important aspect of your project is that you must write a reproducible report. Creating a reproducible workflow is one of the learning objectives of this course.\n\nThere will be six deliverables for the project.\n\n* Project proposal\n* 1st progress report\n* 2nd progress report\n* Final report\n* Peer review\n* Oral Recitation\n\nYour group's final report is expected to be posted online with your consent, where you can choose to have your work posted online or not.\n\n## Past Student Projects\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

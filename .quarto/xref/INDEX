@@ -1,0 +1,39 @@
+{
+  "index.qmd": {
+    "index.html": "34cc2399",
+    "docs.html": "405185ca"
+  },
+  "about.qmd": {
+    "about.html": "a282c831"
+  },
+  "LICENSE.md": {
+    "LICENSE.html": "70cf9f2c"
+  },
+  "project.qmd": {
+    "project.html": "3fd71b7c"
+  },
+  "project-example.qmd": {
+    "project-example.html": "74b87f49"
+  },
+  "project-guidelines.qmd": {
+    "project-guidelines.html": "a7fbefdd"
+  },
+  "project-examples.qmd": {
+    "project-examples.html": "f3f6dd6c"
+  },
+  "project-examples/post-with-code/index.qmd": {
+    "index.html": "d7858024"
+  },
+  "project-examples/welcome/index.qmd": {
+    "index.html": "8cdc6e73"
+  },
+  "project-examples/frequency-and-properties-of-harmful-algal-blooms/1-frequency-and-properties-of-harmful-algal-blooms.qmd": {
+    "1-frequency-and-properties-of-harmful-algal-blooms.html": "696d1238"
+  },
+  "project-examples/frequency-and-properties-of-harmful-algal-blooms/frequency-and-properties-of-harmful-algal-blooms.qmd": {
+    "frequency-and-properties-of-harmful-algal-blooms.html": "51a3b2b8"
+  },
+  "project-examples/plays-and-musicals-throughout-the-age-of-broadway/plays-and-musicals-throughout-the-age-of-broadway.qmd": {
+    "plays-and-musicals-throughout-the-age-of-broadway.html": "0ae60f5b"
+  }
+}
