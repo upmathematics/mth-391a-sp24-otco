@@ -81,7 +81,7 @@ Data science has become ubiquitous and often misunderstood. Here are seven myths
 
 3. "Advanced mathematics are needed to be a 'good' data scientist."
 
-    Mathematics are useful but not a strict requirement for success as a data scientist. A balance of technical, analytical, and domain knowledge is more critical with a basic understanding of statistics, calculus, and linear algebra.
+    Mathematics is useful but not a strict requirement for success as a data scientist. A balance of technical, analytical, and domain knowledge is more critical with a basic understanding of statistics, probability, calculus, and linear algebra.
 
 4. "Data science is the solution to all problems."
 
@@ -97,7 +97,7 @@ Data science has become ubiquitous and often misunderstood. Here are seven myths
     
 7. "You can finish a well-written data science project alone."
     
-    A well-written data science project incorporates multiple perspectives and areas of expertise. As the saying goes, 'the real lesson you learn in your educational journey is the friendships you make along the way.'
+    A well-written data science project incorporates multiple perspectives and areas of expertise. As the saying goes, "the real lesson you learn in your journey is how you make friends along the way."
 
 These misconceptions can lead you to unrealistic expectations and misunderstandings on what data science is about. It's important to have a clear understanding of what data science can and cannot do, which what you will learn in this course through a data science project.
 
