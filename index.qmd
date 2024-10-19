@@ -23,7 +23,7 @@ knitr::include_graphics("figures/aq-data-science-lifecycle.png")
 
 MTH-391, 3 credits, one-time course offering for Spring 2025
 
-### Prequisites
+### Prerequisites
 
 MTH-161 or MTH-201
 
