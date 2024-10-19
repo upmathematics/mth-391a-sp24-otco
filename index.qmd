@@ -21,7 +21,11 @@ knitr::include_graphics("figures/aq-data-science-lifecycle.png")
 
 ### Number and Credits
 
-MTH-391, 3 credits, one-time course offering for Spring 2025
+MTH-391, 3 credits
+
+### Schedule
+
+MWF 1:35PM - 2:30 PM, one-time course offering for Spring 2025
 
 ### Prerequisites
 
