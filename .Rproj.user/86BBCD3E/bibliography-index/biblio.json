@@ -1,26 +1,4 @@
 {
-    "sources": [
-        {
-            "URL": "https://www.R-project.org/",
-            "author": [
-                {
-                    "literal": "R Core Team"
-                }
-            ],
-            "id": "R-base",
-            "issued": {
-                "date-parts": [
-                    [
-                        2016
-                    ]
-                ]
-            },
-            "publisher": "R Foundation for Statistical Computing",
-            "publisher-place": "Vienna, Austria",
-            "title": "R: A language and environment for statistical computing",
-            "title-short": "R",
-            "type": "book"
-        }
-    ],
+    "sources": [],
     "project_biblios": []
 }
