@@ -15,7 +15,7 @@ create_footer()
 
 ## Objectives
 
-The data science project is one of the main assignments required for this course. There are four main objectives for this project, which is in line with the learning objectives of MATH 391:
+The data science project is the main assignment required for this course. There are four main objectives for this project, which is in line with the learning objectives of MATH 391:
 
 -   To learn skills in data acumen, wrangling, and visualization.
 -   To learn effective and concise communication of data stories.
@@ -40,6 +40,8 @@ There will be six deliverables for the project.
 - Final report
 - Peer review
 - Project Presentation
+
+> Detailed expectations for the deliverables will be outlined in the syllabus.
 
 Your group's final report is expected to be posted online. You can choose whether or not to have your group's final report posted online, as your consent is required for it to be published.
 

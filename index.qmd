@@ -37,7 +37,9 @@ If you're a Mathematics or Applied Mathematics major, this course can be used to
 
 ### Instructor
 
-Dr. [Alex John Quijano](https://www.alexjohnquijano.com){target="_blank"} -- [quijano@up.edu](quijano@up.edu){target="_blank"}
+**Name:** Dr. [Alex John Quijano](https://www.alexjohnquijano.com){target="_blank"} 
+
+**Email:** [quijano@up.edu](quijano@up.edu){target="_blank"}
 
 ### Description
 
@@ -81,9 +83,9 @@ Data science has become ubiquitous and often misunderstood. Here are seven myths
     
 2. "Data science is all about coding."
 
-    While using R or Python as programming tools for data analysis, hardcore coding is not the primary goal of data science. Instead, think of R and Python as advanced calculators (like the TI-89 and Excel) that can handle large and complex data sets.
+    While using R or Python as programming tools for data analysis, hardcore coding is not the primary goal of data science. Instead, think of R and Python as advanced calculators (like the TI-89 or Excel) that can handle large and complex data sets.
 
-3. "Advanced mathematics are needed to be a 'good' data scientist."
+3. "Advanced mathematics are needed to be a data scientist."
 
     Mathematics is useful but not a strict requirement for success as a data scientist. A balance of technical, analytical, and domain knowledge is more critical with a basic understanding of statistics, probability, calculus, and linear algebra.
 
